@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraShop", "CameraShop.csproj", "{CCAE4C00-C66C-4483-8942-4A14EB0807B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAE4C00-C66C-4483-8942-4A14EB0807B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAE4C00-C66C-4483-8942-4A14EB0807B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAE4C00-C66C-4483-8942-4A14EB0807B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAE4C00-C66C-4483-8942-4A14EB0807B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F13F1F-6519-4505-803C-5A84C0294472}
+	EndGlobalSection
+EndGlobal
